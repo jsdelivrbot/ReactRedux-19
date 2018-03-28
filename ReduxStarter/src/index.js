@@ -6,7 +6,7 @@ import SearchBar from './components/search_bar';
 import VideoList from './components/video_list';
 
 // add in api key below, and uncomment below line
-// const API_KEY = '';
+const API_KEY = 'AIzaSyBfaLQY_b_iM_DljFSWbd5R2xCkcF-TvqE';
 
 
 
